@@ -1,1 +1,1 @@
-Hello content!
+const myList = [["Chocolate Bar", 15],["Cheese", 6],["Sandwiches", 9],["Coke", 3],["Crisps", 9]];
